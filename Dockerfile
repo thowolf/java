@@ -1,4 +1,4 @@
-FROM webhippie/alpine:latest
+FROM twolf/alpine2:latest
 MAINTAINER Thomas Boerger <thomas@webhippie.de>
 
 RUN apk add --update \
